@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Crypto-Vortex/static/js/main.4b744e25.js",
+    "static/media/btc.png": "/Crypto-Vortex/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/Crypto-Vortex/index.html",
+    "main.4b744e25.js.map": "/Crypto-Vortex/static/js/main.4b744e25.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4b744e25.js"
+  ]
+}
